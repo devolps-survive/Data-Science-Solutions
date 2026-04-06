@@ -1,4 +1,4 @@
-# Python CLI Mini Projects
+# Python Foundations -- Daily Assignment Solutions
 
 This repository contains three fundamental Python programs built using functions and efficient logic:
 
