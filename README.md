@@ -31,7 +31,7 @@ If `n = a × b`, at least one factor must be ≤ √n.
 ## 📌 2. Largest Number in a List
 
 ### Description
-Finds the maximum value in a list using Python built-in and manual approaches.
+Finds the maximum value in a list using Python manual approaches.
 ### Example
     Input: [2, 4, 6, 10, 3]
     Output: 10
